@@ -30,15 +30,11 @@ html {
   font-size: 100%;
 }
 
-/* Smooth Scrolling */
-  * {
-    scroll-behavior: smooth;
-  }
-
 *,
 *::before,
 *::after {
   box-sizing: inherit;
+  scroll-behavior: smooth;
 }
 
 body,
