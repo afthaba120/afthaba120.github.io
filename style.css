@@ -31,10 +31,8 @@ html {
 }
 
 /* Smooth Scrolling */
-@media (prefers-reduced-motion: no-preference) {
   * {
     scroll-behavior: smooth;
-  }
   }
 
 *,
